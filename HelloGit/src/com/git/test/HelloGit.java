@@ -15,6 +15,12 @@ public class HelloGit {
 		int x,y;
 		x=3;y=5;
 		System.out.println("x+y= "+(x+y));
+		for(int i=1;i<10;i++)
+		{
+			System.out.print(i+"\t");
+			if(i%3==0)System.out.println();
+			
+		}
 		
 	}
 

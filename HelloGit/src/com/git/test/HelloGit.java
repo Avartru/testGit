@@ -12,6 +12,10 @@ public class HelloGit {
 	public static void main(String[] args) {
 		System.out.println("hello git 1");
 		System.out.println("hello git 2");
+		int x,y;
+		x=3;y=5;
+		System.out.println("x+y= "+(x+y));
+		
 	}
 
 }
